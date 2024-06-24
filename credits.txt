@@ -9,5 +9,7 @@ People who contributed to the project:
 	-- dwarftough: code assistance, design assistance, testing
 
 	-- Bolyarich: design assistance,testing
+	
+	-- Soliton: great help with color shifting code
 
 If I (Mechanical) missed anything, let me know by either messaging me on discord (orcsteve) or on the official forums.
